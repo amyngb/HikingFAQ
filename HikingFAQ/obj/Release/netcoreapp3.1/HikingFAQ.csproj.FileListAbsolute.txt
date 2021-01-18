@@ -48,6 +48,7 @@ C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\bin\Release\netcoreapp3.1\NuGet.
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\obj\Release\netcoreapp3.1\HikingFAQ.csprojAssemblyReference.cache
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\obj\Release\netcoreapp3.1\HikingFAQ.AssemblyInfoInputs.cache
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\obj\Release\netcoreapp3.1\HikingFAQ.AssemblyInfo.cs
 C:\Users\amybe\source\repos\HikingFAQ\HikingFAQ\obj\Release\netcoreapp3.1\HikingFAQ.csproj.CoreCompileInputs.cache
